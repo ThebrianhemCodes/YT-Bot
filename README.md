@@ -5,4 +5,4 @@ My channel link is https://www.youtube.com/channel/UCFl9SyAccKzkAXkbUv6YsLw.
 For this you do need npm link.
 You also need nodemon command is npm install -g nodemon
 I also recommend atom which is a text editor for programmers. 
-Also install discordie from github not npm and rename it to discordie in the node_modules folder.
+Also install discordie from github not npm and rename it to discordie in the node_modules folder or copy my node_modules folder.
