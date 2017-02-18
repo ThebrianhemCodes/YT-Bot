@@ -9,3 +9,10 @@ Also install discordie from github not npm and rename it to discordie in the nod
 Add discord bot https://discordapp.com/developers/applications/me.
 Add bot to server https://discordapp.com/oauth2/authorize?client_id=CLIENT_ID_GOES_HERE&scope=bot&permissions=0.
 Also install super agent npm install superagent.
+
+
+Important Commands to run:
+
+npm install -g nodemon
+
+npm install superagent
