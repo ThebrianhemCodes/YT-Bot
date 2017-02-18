@@ -6,5 +6,5 @@
   "scripts": { "test": "nodemon bot.js"},
   "author": "*Your Name*",
   "license": "MIT",
-  "dependencies": { "discordie":"^0.5.5" }
+  "dependencies": { "discordie":"^0.11.0" }
 }
