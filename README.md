@@ -2,3 +2,6 @@
 This is for help with the bot on my youtube channel.
 Please comment on video if you need help with it. Also if there are any errors please report.
 My channel link is https://www.youtube.com/channel/UCFl9SyAccKzkAXkbUv6YsLw.
+For this you do need npm link.
+You also need nodemon command is npm install -g nodemon
+I also recommend atom which is a text editor for programmers. 
