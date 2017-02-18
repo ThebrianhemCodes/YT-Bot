@@ -7,4 +7,4 @@ You also need nodemon command is npm install -g nodemon
 I also recommend atom which is a text editor for programmers. 
 Also install discordie from github not npm and rename it to discordie in the node_modules folder or copy my node_modules folder.
 Add discord bot https://discordapp.com/developers/applications/me.
-Add bot to server https://discordapp.com/oauth2/authorize?client_id=BOT_CLIENT_ID.
+Add bot to server https://discordapp.com/oauth2/authorize?client_id=CLIENT_ID_GOES_HERE&scope=bot&permissions=0.
